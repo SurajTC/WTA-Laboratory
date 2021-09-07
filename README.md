@@ -1,4 +1,6 @@
 
 ### Maze game
 
-A simple Maze game implemented using Javascript
+A simple Web based
+
+Maze game implemented using Javascript
